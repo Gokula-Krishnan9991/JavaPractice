@@ -9,7 +9,7 @@ public class Format {
         //conversion
         //System.out.printf("%d %f %c %s \n",x,y,z,s);
         //argumental index
-        //System.out.printf("%1$d %3$c %2$f %4$s",s,x,y,z);
+        System.out.printf("%1$d %2$c %3$f \n",x,z,y);
 
         System.out.printf("%e",y);
         System.out.printf("%010d",x);
